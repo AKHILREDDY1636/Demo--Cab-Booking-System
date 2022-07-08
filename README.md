@@ -1,6 +1,6 @@
 # Demo--Cab-Booking-System
 
-Please refer to rider.js for code purpose,
+Please refer to ./routes/rider.js for code purpose,
 Here This rider is used in api.js by using 'use' keyword
 
 # Functionalities which are performed through these api calls:
